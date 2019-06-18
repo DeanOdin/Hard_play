@@ -32,6 +32,249 @@
             android:text="Никакого праздника("
             tools:layout_editor_absoluteX="8dp"
             tools:layout_editor_absoluteY="56dp" />
+        <Button
+            android:id="@+id/button_play3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/button_play2"
+            android:background="@color/White"
+            android:onClick="play3"
+            android:text="Бабы дуры"
+            tools:layout_editor_absoluteX="8dp"
+            tools:layout_editor_absoluteY="56dp" />
+        <Button
+            android:id="@+id/button_play4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/button_play3"
+            android:background="@color/White"
+            android:onClick="play4"
+            android:text="Да снизайдёт благодать"
+            tools:layout_editor_absoluteX="8dp"
+            tools:layout_editor_absoluteY="56dp" />
+        <Button
+            android:id="@+id/button_play5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/button_play4"
+            android:background="@color/White"
+            android:onClick="play5"
+            android:text="Иже еси на небеси"
+            tools:layout_editor_absoluteX="8dp"
+            tools:layout_editor_absoluteY="56dp" />
+        <Button
+            android:id="@+id/button_play6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/button_play5"
+            android:background="@color/White"
+            android:onClick="play6"
+            android:text="Бунд блед!"
+            tools:layout_editor_absoluteX="8dp"
+            tools:layout_editor_absoluteY="56dp" />
+        <Button
+            android:id="@+id/button_play7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/button_play6"
+            android:background="@color/White"
+            android:onClick="play7"
+            android:text="Что ты доебафся?"
+            tools:layout_editor_absoluteX="8dp"
+            tools:layout_editor_absoluteY="56dp" />
+        <Button
+            android:id="@+id/button_play8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/button_play7"
+            android:background="@color/White"
+            android:onClick="play8"
+            android:text="АААА, дротеры"
+            tools:layout_editor_absoluteX="8dp"
+            tools:layout_editor_absoluteY="56dp" />
+        <Button
+            android:id="@+id/button_play9"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/button_play8"
+            android:background="@color/White"
+            android:onClick="play9"
+            android:text="Для важных переговоров"
+            tools:layout_editor_absoluteX="8dp"
+            tools:layout_editor_absoluteY="56dp" />
+        <Button
+            android:id="@+id/button_play10"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/button_play9"
+            android:background="@color/White"
+            android:onClick="play10"
+            android:text="ПАМАГИТЕ ГРАБЯТ!"
+            tools:layout_editor_absoluteX="8dp"
+            tools:layout_editor_absoluteY="56dp" />
+        <Button
+            android:id="@+id/button_play11"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/button_play10"
+            android:background="@color/White"
+            android:onClick="play11"
+            android:text="Испугались?"
+            tools:layout_editor_absoluteX="8dp"
+            tools:layout_editor_absoluteY="56dp" />
+        <Button
+            android:id="@+id/button_play12"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/button_play11"
+            android:background="@color/White"
+            android:onClick="play12"
+            android:text="Откуда голос? Извинись!"
+            tools:layout_editor_absoluteX="8dp"
+            tools:layout_editor_absoluteY="56dp" />
+        <Button
+            android:id="@+id/button_play13"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/button_play12"
+            android:background="@color/White"
+            android:onClick="play13"
+            android:text="Как так то?"
+            tools:layout_editor_absoluteX="8dp"
+            tools:layout_editor_absoluteY="56dp" />
+        <Button
+            android:id="@+id/button_play14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/button_play13"
+            android:background="@color/White"
+            android:onClick="play14"
+            android:text="Як лев рычит?"
+            tools:layout_editor_absoluteX="8dp"
+            tools:layout_editor_absoluteY="56dp" />
+        <Button
+            android:id="@+id/button_play15"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/button_play14"
+            android:background="@color/White"
+            android:onClick="play15"
+            android:text="Братан, не говори так"
+            tools:layout_editor_absoluteX="8dp"
+            tools:layout_editor_absoluteY="56dp" />
+        <Button
+            android:id="@+id/button_play16"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/button_play15"
+            android:background="@color/White"
+            android:onClick="play16"
+            android:text="Мозги ему купи!"
+            tools:layout_editor_absoluteX="8dp"
+            tools:layout_editor_absoluteY="56dp" />
+        <Button
+            android:id="@+id/button_play17"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/button_play16"
+            android:background="@color/White"
+            android:onClick="play17"
+            android:text="Ничего не получается...("
+            tools:layout_editor_absoluteX="8dp"
+            tools:layout_editor_absoluteY="56dp" />
+        <Button
+            android:id="@+id/button_play18"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/button_play17"
+            android:background="@color/White"
+            android:onClick="play18"
+            android:text="Хоба!"
+            tools:layout_editor_absoluteX="8dp"
+            tools:layout_editor_absoluteY="56dp" />
+        <Button
+            android:id="@+id/button_play19"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/button_play18"
+            android:background="@color/White"
+            android:onClick="play19"
+            android:text="Обидно да? 2"
+            tools:layout_editor_absoluteX="8dp"
+            tools:layout_editor_absoluteY="56dp" />
+        <Button
+            android:id="@+id/button_play20"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/button_play19"
+            android:background="@color/White"
+            android:onClick="play20"
+            android:text="Папався!"
+            tools:layout_editor_absoluteX="8dp"
+            tools:layout_editor_absoluteY="56dp" />
+        <Button
+            android:id="@+id/button_play21"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/button_play20"
+            android:background="@color/White"
+            android:onClick="play21"
+            android:text="Парапарапам фють"
+            tools:layout_editor_absoluteX="8dp"
+            tools:layout_editor_absoluteY="56dp" />
+        <Button
+            android:id="@+id/button_play22"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/button_play21"
+            android:background="@color/White"
+            android:onClick="play22"
+            android:text="Пей, блюй и спать"
+            tools:layout_editor_absoluteX="8dp"
+            tools:layout_editor_absoluteY="56dp" />
+        <Button
+            android:id="@+id/button_play23"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/button_play22"
+            android:background="@color/White"
+            android:onClick="play23"
+            android:text="Шо надо? Ну чево?"
+            tools:layout_editor_absoluteX="8dp"
+            tools:layout_editor_absoluteY="56dp" />
+        <Button
+            android:id="@+id/button_play24"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/button_play23"
+            android:background="@color/White"
+            android:onClick="play24"
+            android:text="Просто возьми и скажи"
+            tools:layout_editor_absoluteX="8dp"
+            tools:layout_editor_absoluteY="56dp" />
+        <Button
+            android:id="@+id/button_play25"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/button_play24"
+            android:background="@color/White"
+            android:onClick="play25"
+            android:text="Вооооо"
+            tools:layout_editor_absoluteX="8dp"
+            tools:layout_editor_absoluteY="56dp" />
+        <Button
+            android:id="@+id/button_play26"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/button_play25"
+            android:background="@color/White"
+            android:onClick="play26"
+            android:text="И сказал господь Встань и иди!"
+            tools:layout_editor_absoluteX="8dp"
+            tools:layout_editor_absoluteY="56dp" />
+
+
+
 
 
 
